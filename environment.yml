@@ -1,0 +1,12 @@
+name: learn-julia
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - mamba
+  - python
+  - conda-lock
+  - jupyterlab
+  - jupytext
+  - jupyterlab-git
+prefix: C:\Users\thomp\miniconda3\envs\learn-julia
