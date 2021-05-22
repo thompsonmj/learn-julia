@@ -6,7 +6,7 @@
 data
 videos
 plots
-notebooks
+#notebooks
 _research
 
 ################################################################################
@@ -39,6 +39,7 @@ docs/site/
 
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+.ipynb # added manually - use jupytext to track paired file with git
 
 ################################################################################
 #                               Microsoft Office                               #
