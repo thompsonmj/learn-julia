@@ -39,7 +39,7 @@ docs/site/
 
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
-.ipynb # added manually - use jupytext to track paired file with git
+*.ipynb # added manually - use jupytext to track paired file with git
 
 ################################################################################
 #                               Microsoft Office                               #
