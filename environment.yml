@@ -9,4 +9,7 @@ dependencies:
   - jupyterlab
   - jupytext
   - jupyterlab-git
+  - nbconvert
+  - nbformat
+  - pytest
 prefix: C:\Users\thomp\miniconda3\envs\learn-julia
